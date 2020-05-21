@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">google signin</string>
+   <!-- <string name="default_web_client_id">12345</string>-->
+</resources>
